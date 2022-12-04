@@ -1,0 +1,24 @@
+body{
+    background-color:midnightblue;
+}
+#btn{
+    padding: 10px;
+    font-weight:bolder;
+    border-radius: 10px;
+    display: block;
+    border-color: white;
+    border-width: 3px;
+    background-color: midnightblue;
+    color: white;
+}
+td{
+    padding: 10px;
+    color: white;
+    border-width: 2px;
+    border-style: solid;
+}
+#table1{
+    font-family: cursive;
+    border-collapse: collapse;
+    display: none;
+}
